@@ -1,0 +1,35 @@
+<calendar>
+    <event>
+        <description>Christmas</description>
+        <timezone>GMT-8</timezone>
+        <location>Victoria, Canada</location>
+        <day>25</day>
+        <month>12</month>
+        <year>2022</year>
+        <dweek>Sunday</dweek>
+        <start>00:00</start>
+        <end>23:59</end>
+    </event>
+    <event>
+        <description>Easter</description>
+        <timezone>GMT+1</timezone>
+        <location>Barcelona, Spain</location>
+        <day>17</day>
+        <month>04</month>
+        <year>2022</year>
+        <dweek>Sunday</dweek>
+        <start>09:00</start>
+        <end>18:00</end>
+    </event>
+    <event>
+        <description>Thanksgiving Dinner</description>
+        <timezone>GMT+3</timezone>
+        <location>Sakhir, Bahrain</location>
+        <day>10</day>
+        <month>10</month>
+        <year>2022</year>
+        <dweek>Monday</dweek>
+        <start>16:00</start>
+        <end>22:00</end>
+    </event>
+</calendar>

@@ -1,0 +1,3 @@
+Checks for events in the year 2022
+
+python3 process_cal.py 2022/01/01 2022/12/31 test01.xml >> test02_results.txt

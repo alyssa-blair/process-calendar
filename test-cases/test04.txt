@@ -1,0 +1,3 @@
+Checks for events from January 1 to October 1, 2022
+
+python3 process_cal.py 2022/01/01 2022/10/10 test02.xml >> test04_results.txt
